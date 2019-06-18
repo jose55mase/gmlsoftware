@@ -1,0 +1,9 @@
+#resaltado{
+    color: red;
+}
+
+a{
+    list-style-type: none;
+    padding : 50%;
+    bottom: 0px;
+}
