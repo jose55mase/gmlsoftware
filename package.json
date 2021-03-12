@@ -24,7 +24,7 @@
     "@types/html2canvas": "0.0.35",
     "core-js": "^2.4.1",
     "html2canvas": "^1.0.0-rc.3",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
   },
